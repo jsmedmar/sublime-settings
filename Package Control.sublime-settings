@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"MySublimeQL"
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Anaconda",
+		"ApplySyntax",
+		"BufferScroll",
+		"Clickable URLs",
+		"Fix Mac Path",
+		"GitGutter",
+		"Google Spell Check",
+		"MacTerminal",
+		"Monokai JSON+",
+		"MySublimeQL",
+		"OrigamiEmacs",
+		"Package Control",
+		"Project Manager",
+		"Python 3",
+		"ReadmePlease",
+		"Restructured Text (RST) Snippets",
+		"rsub",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeREPL",
+		"Theme - Flatland"
+	]
+}

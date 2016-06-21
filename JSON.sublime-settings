@@ -1,0 +1,76 @@
+{
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": ".",
+			"selector": "source.python"
+		}
+	],
+	"build_systems": "Automatic",
+	"color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme",
+	"detect_indentation": true,
+	"draw_indent_guides": true,
+	"draw_white_space": "all",
+	"extensions":
+	[
+		".jshintrc",
+		".jscsrc",
+		".bowerrc",
+		".eslintrc",
+		".csslintrc",
+		"geojson"
+	],
+	"file_exclude_patterns":
+	[
+		".DS_Store",
+		"*.pid",
+		"*.pyc"
+	],
+	"find_selected_text": true,
+	"flatland_sidebar_tree_small": true,
+	"fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		"__pycache__",
+		"env",
+		"env3"
+	],
+	"font_face": "Ubuntu Light",
+	"font_options":
+	[
+		"subpixel_antialias",
+		"no_bold"
+	],
+	"font_size": 14,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"origami_auto_zoom_on_focus": false,
+	"rulers":
+	[
+		60,
+		72,
+		79
+	],
+	"scroll_past_end": false,
+	"show_full_path": true,
+	"show_minimap": true,
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"wide_caret": true,
+	"word_wrap": true,
+	"word_wrap_column": "Automatic",
+	"wrap_width": 72
+}

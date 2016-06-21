@@ -1,0 +1,10 @@
+{
+    "spell_check": true,
+    "rulers":
+    [
+        80,
+    ],
+    "word_wrap": true,
+    "word_wrap_column": "Automatic",
+    "wrap_width": 80
+}
