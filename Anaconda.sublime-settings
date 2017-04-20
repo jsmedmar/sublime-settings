@@ -324,7 +324,7 @@
     */
     "pep8_ignore":
     [
-        "E701", "E731", "E123",
+        "E701", "E731", "E123", "E125"
     ],
 
     // Maximum line length for pep8

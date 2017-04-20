@@ -42,7 +42,7 @@
 		"env3"
 	],
 	"font_face": "Menlo Regular",
-	"font_size": 14,
+	"font_size": 14.1,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -50,6 +50,7 @@
 		"All Autocomplete",
 		"Evernote",
 		"FindKeyConflicts",
+		"MarkdownEditing",
 		"MySublimeQL",
 		"Vintage"
 	],
