@@ -6,6 +6,19 @@
 			{
 				"args":
 				{
+					"text": "range "
+				},
+				"command": "text_pastry_range_parser",
+				"text": "range "
+			},
+			"key": "b01dac259fabb9c579f2f2b9111a3325",
+			"label": "range "
+		},
+		{
+			"data":
+			{
+				"args":
+				{
 					"stop": "1"
 				},
 				"command": "text_pastry_range",
@@ -19,22 +32,94 @@
 			{
 				"args":
 				{
-					"text": "range "
+					"start": "1",
+					"stop": "10"
 				},
-				"command": "text_pastry_range_parser",
-				"text": "range "
+				"command": "text_pastry_range",
+				"text": "range 1,10"
 			},
-			"key": "b01dac259fabb9c579f2f2b9111a3325",
-			"label": "range "
+			"key": "06e7123917df3495885877ccecdf52f4",
+			"label": "range 1,10"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "1",
+					"stop": "100"
+				},
+				"command": "text_pastry_range",
+				"text": "range 1 100"
+			},
+			"key": "7d7422041fc88226a75b7ed2834a4b35",
+			"label": "range 1 100"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "1",
+					"stop": "1000"
+				},
+				"command": "text_pastry_range",
+				"text": "range 1 1000"
+			},
+			"key": "0b70cdb5009a34f7b8077d8fdce86123",
+			"label": "range 1 1000"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "1",
+					"stop": "1000000000000000000000"
+				},
+				"command": "text_pastry_range",
+				"text": "range 1 1000000000000000000000"
+			},
+			"key": "a0a8dd1f49fa11bb10f35f824a7b0ae7",
+			"label": "range 1 1000000000000000000000"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "1",
+					"stop": "100000000"
+				},
+				"command": "text_pastry_range",
+				"text": "range 1 100000000"
+			},
+			"key": "6895c3bbf304f04c8c888ef28bd23877",
+			"label": "range 1 100000000"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"start": "1",
+					"stop": "20793"
+				},
+				"command": "text_pastry_range",
+				"text": "range 1 20793"
+			},
+			"key": "b1e1ba98c746e1416fe4f132b0964165",
+			"label": "range 1 20793"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "range "
+			"start": "1",
+			"stop": "20793"
 		},
-		"command": "text_pastry_range_parser",
-		"text": "range "
+		"command": "text_pastry_range",
+		"text": "range 1 20793"
 	}
 }
