@@ -2,7 +2,7 @@
 
 My settings for different sublime text plugins.
 
-If you want to use my configuration, just replace the User directory with this repo (in mac its located at ~/Library/Application Support/Sublime Text 3/Packages/User).
+If you want to use my configuration, just replace the User directory with this repo (in mac its located at `~/Library/Application Support/Sublime Text 3/Packages/User`). Don't panic if it starts raising errors, it will eventually converge and install all. Please make sure you have Package Control installed.
 
 Installed packages:
 
