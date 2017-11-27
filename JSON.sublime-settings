@@ -15,12 +15,12 @@
 	"draw_white_space": "all",
 	"extensions":
 	[
+		".csslintrc",
 		".jshintrc",
 		".eslintrc",
-		".bowerrc",
-		".csslintrc",
 		"geojson",
-		".jscsrc"
+		".jscsrc",
+		".bowerrc"
 	],
 	"file_exclude_patterns":
 	[

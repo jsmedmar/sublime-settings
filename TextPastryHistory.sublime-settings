@@ -110,16 +110,28 @@
 			},
 			"key": "b1e1ba98c746e1416fe4f132b0964165",
 			"label": "range 1 20793"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "range 1:10"
+				},
+				"command": "text_pastry_range_parser",
+				"text": "range 1:10"
+			},
+			"key": "39cd3ce2557cf2624222306e8d391477",
+			"label": "range 1:10"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"start": "1",
-			"stop": "20793"
+			"text": "range 1:10"
 		},
-		"command": "text_pastry_range",
-		"text": "range 1 20793"
+		"command": "text_pastry_range_parser",
+		"text": "range 1:10"
 	}
 }
